@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Docling OCR",
+  "description": "A high-performance document OCR application that converts images into structured Markdown with tables, code, and LaTeX math using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
